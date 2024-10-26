@@ -1,0 +1,9 @@
+{
+    "sample": "test_sample",
+    "data": [100, 200, 300],
+    "info": {
+        "instrument": "Q-Exactive",
+        "start_time": "2023-10-20T10:00:00",
+        "file_description": "Test sample run"
+    }
+}

@@ -1,0 +1,13 @@
+# Core Scientific Libraries
+numpy>=1.21.6
+scipy>=1.7.3
+
+# Plotting and Visualization
+matplotlib>=3.4.3
+seaborn>=0.11.2
+
+# mzML File Handling
+pymzml>=2.4.5
+
+# Jupyter Notebook (only if running locally)
+jupyterlab>=3.2.0
